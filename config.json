@@ -1,0 +1,24 @@
+
+{
+  "app_mode": {
+    "app_name": "My Notes",
+    "server": "debug"
+  },
+  "logger": {
+    "log_file": "My Notes",
+    "when_seconds": "S",
+    "when_minutes": "M",
+    "when_hours": "H",
+    "when_days": "D",
+    "when_midnight": "midnight",
+    "interval": 1,
+    "backupCount": 180,
+    "maxBytes" : 2000000
+  },
+  "database": {
+    "username":"",
+    "password": "",
+    "db_name": "",
+    "host": ""
+  }
+}

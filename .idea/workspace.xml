@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="008b4b15-331e-464b-b75a-654e8f2c010a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/ApiResponseHandler/ApiResponse.py" beforeDir="false" afterPath="$PROJECT_DIR$/ApiResponseHandler/ApiResponse.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AuthToken/JWTToken.py" beforeDir="false" afterPath="$PROJECT_DIR$/AuthToken/JWTToken.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Constant/.vs/Constant/v17/.suo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Constant/.vs/VSWorkspaceState.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Constant/.vs/slnx.sqlite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Constant/ApiKey.py" beforeDir="false" afterPath="$PROJECT_DIR$/Constant/ApiKey.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Constant/Messages.py" beforeDir="false" afterPath="$PROJECT_DIR$/Constant/Messages.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Constant/SqlConstant.py" beforeDir="false" afterPath="$PROJECT_DIR$/Constant/SqlConstant.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Constant/Status.py" beforeDir="false" afterPath="$PROJECT_DIR$/Constant/Status.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataModels/Customer/Notes/NoteAllList.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataModels/Customer/Notes/NoteAllList.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataModels/Customer/Notes/NoteDataClass.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataModels/Customer/Notes/NoteDataClass.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataModels/Customer/Users/UserDataClass.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataModels/Customer/Users/UserDataClass.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Database/DbConection.py" beforeDir="false" afterPath="$PROJECT_DIR$/Database/DbConection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Firebase/FirebaseHome.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Firebase/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Firebase/keyFile/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Firebase/keyFile/my-notebook.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LogsBook/logs/My Notes.log" beforeDir="false" afterPath="$PROJECT_DIR$/LogsBook/logs/My Notes.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LogsBook/logs/My Notes.log.2022-06-12" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Utils/Wrappers/CheckApiKeysWraaper.py" beforeDir="false" afterPath="$PROJECT_DIR$/Utils/Wrappers/CheckApiKeysWraaper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Utils/Wrappers/CheckDatabaseOperation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Utils/Wrappers/CheckDatabaseOperation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Utils/Wrappers/CheckHeadersWrapper.py" beforeDir="false" afterPath="$PROJECT_DIR$/Utils/Wrappers/CheckHeadersWrapper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Utils/Wrappers/CheckRequestMethodWrapper.py" beforeDir="false" afterPath="$PROJECT_DIR$/Utils/Wrappers/CheckRequestMethodWrapper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/customer/authentication/AuthHome.py" beforeDir="false" afterPath="$PROJECT_DIR$/modules/customer/authentication/AuthHome.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/customer/authentication/routes/OnBoard.py" beforeDir="false" afterPath="$PROJECT_DIR$/modules/customer/authentication/routes/OnBoard.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/customer/authentication/routes/ResendOtp.py" beforeDir="false" afterPath="$PROJECT_DIR$/modules/customer/authentication/routes/ResendOtp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/customer/authentication/routes/UpdateProfile.py" beforeDir="false" afterPath="$PROJECT_DIR$/modules/customer/authentication/routes/UpdateProfile.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/customer/authentication/routes/VerifyOTP.py" beforeDir="false" afterPath="$PROJECT_DIR$/modules/customer/authentication/routes/VerifyOTP.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/customer/note/NoteHome.py" beforeDir="false" afterPath="$PROJECT_DIR$/modules/customer/note/NoteHome.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/customer/note/routes/AddNotes.py" beforeDir="false" afterPath="$PROJECT_DIR$/modules/customer/note/routes/AddNotes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/customer/note/routes/DeleteNote.py" beforeDir="false" afterPath="$PROJECT_DIR$/modules/customer/note/routes/DeleteNote.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/customer/note/routes/GetAllNote.py" beforeDir="false" afterPath="$PROJECT_DIR$/modules/customer/note/routes/GetAllNote.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/customer/note/routes/UpdateNote.py" beforeDir="false" afterPath="$PROJECT_DIR$/modules/customer/note/routes/UpdateNote.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2AUIvvEBsoqz8Vc2zeqLt466Ryo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/Restful API/Python/My Notes Api flask SQL",
+    "settings.editor.selected.configurable": "fileTemplates"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="My Notes Api flask SQL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="008b4b15-331e-464b-b75a-654e8f2c010a" name="Changes" comment="" />
+      <created>1655057975612</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655057975612</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
